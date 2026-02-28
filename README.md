@@ -100,11 +100,13 @@
 <hr>
 
 <h2 align="center">📈 GitHub Analytics</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swayanshu-jena&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swayanshu-jena&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swayanshu-Jena&show_icons=true&locale=en&theme=radical&v=1)](https://github.com/Swayanshu-Jena)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swayanshu-Jena&theme=radical)](https://github.com/Swayanshu-Jena)
+
 <br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=swayanshu-jena&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="50%" />
-</p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Swayanshu-Jena&show_icons=true&locale=en&layout=compact&theme=radical&v=1)](https://github.com/Swayanshu-Jena)
+
+</div>
