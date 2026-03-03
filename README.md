@@ -31,7 +31,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
 </a>
 </p>
-<p>📄 <b><a href="https://drive.google.com/file/d/1BCPZVUDEcdm-oqeJCW_vJMzH0mKXW-Xx/view?usp=drive_link" target="_blank">View My Resume</a></b></p>
+<p>📄 <b><a href="https://drive.google.com/file/d/1I22ybqduF3nHXFOWOfKyGyzD96aveUrE/view?usp=sharing" target="_blank">View My Resume</a></b></p>
 
 <br clear="both">
 <hr>
